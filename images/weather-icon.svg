@@ -1,0 +1,19 @@
+<?xml-stylesheet type="text/css" href="../styles.css" ?>
+
+<svg width="54px" height="44px" viewBox="0 0 54 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="iPhone-7" transform="translate(-161.000000, -603.000000)" stroke="#FFFFFF" stroke-width="4">
+            <g id="Icon" transform="translate(163.000000, 605.000000)">
+                <path d="M26.5,16.2238 C25.527,12.6418 22.154,9.9998 18.141,9.9998 C13.369,9.9998 9.5,13.7378 9.5,18.3488 C9.5,21.0638 10.84,23.4748 12.916,24.9998" id="Stroke-112"></path>
+                <path d="M42.7247,39.4908 C46.2257,39.3348 49.4997,36.9338 49.4997,33.2718 C49.4997,31.5958 48.8477,30.0068 47.9217,28.8918 C46.7537,27.2038 44.6787,26.0188 42.3147,26.0188 C42.1087,26.0188 41.9047,25.9958 41.7037,26.0128 C41.9147,25.2248 42.0277,24.3808 42.0277,23.5268 C42.0277,18.2738 37.7807,14.0078 32.5427,14.0078 C27.3047,14.0078 23.0587,18.2618 23.0587,23.5148 C23.0587,23.7128 23.0647,23.9078 23.0767,24.1028 C21.9577,23.6558 20.7167,23.4058 19.4097,23.4058 C14.4887,23.4058 10.4997,26.9338 10.4997,31.2858 C10.4997,35.3668 12.7447,39.0788 17.0827,39.4618 L42.7247,39.4908 L42.7247,39.4908 Z" id="Stroke-114"></path>
+                <path d="M17,4 L17,0" id="Stroke-116"></path>
+                <path d="M4,19 L0,19" id="Stroke-118"></path>
+                <path d="M28.4363,8.0637 L31.5633,4.9367" id="Stroke-120"></path>
+                <path d="M7.5637,8.0637 L4.4367,4.9367" id="Stroke-122"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml-stylesheet type="text/css" href="../styles.css" ?>
+<svg width="40px" height="46px" viewBox="0 0 40 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="iPhone-7" transform="translate(-20.000000, -601.000000)" stroke="#EEF5DB" stroke-width="4">
+            <g id="Icon" transform="translate(22.000000, 603.000000)">
+                <path d="M11,42 L0.876,42 C0.392,42 0,41.716 0,41.259 L0,16" id="Stroke-459"></path>
+                <path d="M36,17 L36,41.259 C36,41.716 35.608,42 35.124,42 L24,42" id="Stroke-460"></path>
+                <polyline id="Stroke-461" stroke-linecap="round" points="36 16.8867 18 0.0007 0 16.4297"></polyline>
+                <polyline id="Stroke-462" points="12 44 12 29 24 29 24 44"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
