@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  border: 1px dotted blue;
 }
 
 body {
@@ -46,11 +45,12 @@ body {
  .graph-section {
    background-color: #B8D8D8;
    height: 515px;
+   padding-top: 15px;
  }
 
  .graph {
    height: 250px;
-   margin: 10px auto;
+   margin: 0 auto;
    text-align: center;
    width: 70%;
  }
