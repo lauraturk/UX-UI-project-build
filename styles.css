@@ -12,6 +12,101 @@ body {
   fill: #FE5F55;
 }
 
+#top-section {
+  display: flex;
+  background: #EDF4DA;
+  height: 300px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#andy-data,
+.upcoming {
+  width: 50%
+}
+
+.photo,
+.hamburger,
+.home {
+  display: none;
+}
+
+.line-graph {
+  width: 45vw;
+  height: 220px;
+  margin-left: 4%;
+}
+
+h1 {
+  margin-left: 3%;
+  color: #4E6367;
+  font-size: 2.5em;
+  margin-bottom: 5%;
+  margin-top: 0:
+}
+
+h3 {
+  color: #4E6367;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+#upcoming-summary {
+  background: #FFFFFF;
+  width: 95%;
+  padding: 2%;
+  margin-bottom: 5%;
+}
+
+#monthly-summary {
+  display: flex;
+  justify-content: center;
+}
+
+#month {
+  width: 20%;
+  text-align: center;
+  margin: 0;
+  font-size: 1.5em;
+}
+
+article {
+  width: 80%;
+  font-size: 12px;
+  text-align: center;
+  padding-top: 12%;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.graph {
+  width: 33.3%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bar {
+  background: #4E6367;
+}
+
+.bar-graph-label {
+    color: #FFFFFF;
+}
+
+.circle {
+  background: #B7D7D7;
+}
+
+.circle-graph-label {
+  color: #FD5E54;
+}
+
+
 @media (max-width: 500px) {
  .navbar {
    align-items: center;

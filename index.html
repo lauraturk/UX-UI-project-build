@@ -9,48 +9,54 @@
   </head>
   <body>
     <nav class="navbar">
-        <h1 class="main-header">Andy's Data</h1>
-        <object type="image/svg+xml" alt="graph of something" class="line-graph" data="./images/line-graph.svg">line graph</object>
-        <object type="image/svg+xml" alt="photo icon" class="photo icon" data="./images/photos.svg">line graph</object>
-        <object type="image/svg+xml" alt="hamburger icon" class="hamburger icon" data="./images/hamburger-icon.svg">hamburger menu</object>
-      <div>
+      <section id='top-section'>
+        <div id='andy-data'>
+          <h1 class="main-header">Andy's Data</h1>
+          <object type="image/svg+xml" alt="graph of something" class="line-graph" data="./images/line-graph.svg">line graph</object>
+          <object type="image/svg+xml" alt="photo icon" class="photo icon" data="./images/photos.svg">line graph</object>
+          <object type="image/svg+xml" alt="hamburger icon" class="hamburger icon" data="./images/hamburger-icon.svg">hamburger menu</object>
+        </div>
         <div class="upcoming">
           <h3>Upcoming Races, Run Groups</h2>
-          <h4>June</h4>
-          <article>
-            Now that there is the Tec-9, a crappy spray gun from South Miami.
-            This gun is advertised as the most popular gun in American crime.
-            Do you believe that shit? It actually says that in the little book that
-            comes with it: the most popular gun in American crime. Like they’re actually
-            proud of that shit.
-          </article>
+          <div id='upcoming-summary'>
+            <div id='monthly-summary'>
+              <p id='month'>June:</p>
+              <article>
+                Now that there is the Tec-9, a crappy spray gun from South Miami.
+                This gun is advertised as the most popular gun in American crime.
+                Do you believe that shit? It actually says that in the little book that
+                comes with it: the most popular gun in American crime. Like they’re actually
+                proud of that shit.
+              </article>
+            </div>
+          </div>
         </div>
-      </div>
+      </section
     </nav>
     <main class="graph-section">
       <section class="graph circle">
         <object type="image/svg+xml" class="graph-svg" alt="circle graph of steps in relation to goals" data="./images/circle-graph.svg">graph</object>
-        <h3 class="graph-label">STEPS</h3>
+        <h3 class="circle-graph-label graph-label">STEPS</h3>
       </section>
       <section class="graph bar">
         <object type="image/svg+xml" class="graph-svg" alt="bar graph of sleep patterns" data="./images/bar-graph.svg">graph</object>
-        <h3 class="graph-label">SLEEP</h3>
+        <h3 class="bar-graph-label graph-label">Sleep</h3>
       </section>
       <section class="graph circle hidden">
         <object type="image/svg+xml" class="graph-svg" alt="circle graph of steps in relation to goals" data="./images/circle-graph.svg">graph</object>
-        <h3 class="graph-label">CALORIES</h3>
+        <h3 class="circle-graph-label graph-label">CALORIES</h3>
       </section>
       <section class="graph bar">
         <object type="image/svg+xml" class="graph-svg" alt="bar graph of sleep patterns" data="./images/bar-graph.svg">graph</object>
-        <h3 class="graph-label">DAILY DISTANCE</h3>
+        <h3 class="bar-graph-label graph-label">Daily Distance</h3>
       </section>
       <section class="graph circle">
         <object type="image/svg+xml" class="graph-svg" alt="circle graph of steps in relation to goals" data="./images/circle-graph.svg">graph</object>
-        <h3 class="graph-label">DISTANCE</h3>
+        <h3 class="circle-graph-label graph-label">DISTANCE</h3>
       </section>
       <section class="graph bar">
         <object type="image/svg+xml" class="graph-svg" alt="bar graph of sleep patterns" data="./images/bar-graph.svg">graph</object>
-        <h3 class="graph-label">ACTIVE MINUTES</h3>
+        <h3 class="bar-graph-label graph-label">Active Minutes</h3>
       </section>
     </main>
     <nav class="bottom-navbar">
