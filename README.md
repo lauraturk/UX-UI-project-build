@@ -1,3 +1,5 @@
 Comps
-* [Mobile](UX-UI-project-build/comps/UX-UI-Keji-Kelly-Mobile.pdf)
+* [Mobile](./comps/UX-UI-Keji-Kelly-Mobile.pdf)
 * [Desktop](./comps/ux-uiproject-Keji-Kelly-desktop.pdf)
+
+[Github pages](https://lauraturk.github.io/UX-UI-project-build/)
