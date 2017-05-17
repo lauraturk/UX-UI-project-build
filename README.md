@@ -3,7 +3,7 @@ Comps
 * [Desktop](./comps/ux-uiproject-Keji-Kelly-desktop.pdf)
 
 Screen shots of Build
-* [Mobile](./mobile-sreen.png)
+* [Mobile](./mobile-screen.png)
 * [Desktop](./desktop-screen.png)
 
 [Github pages](https://lauraturk.github.io/UX-UI-project-build/)
