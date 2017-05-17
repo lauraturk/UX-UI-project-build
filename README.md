@@ -15,6 +15,11 @@ Inspiration
 * [Item 2](./Inspiration-2.png)
 * [Item 3](./Inspiration-3.png)
 
+Wireframes/Profile
+* [Item 1](./profilewireframe.jpg)
+* [Item 1](./wireframe.jpg)
+
+
 Comps
 * [Mobile](./comps/UX-UI-Keji-Kelly-Mobile.pdf)
 * [Desktop](./comps/ux-uiproject-Keji-Kelly-desktop.pdf)
