@@ -1,5 +1,7 @@
 Inspiration
-* [Item 1](Inspiration 1.png)
+* [Item 1](./Inspiration-1.png)
+* [Item 2](./Inspiration-2.png)
+* [Item 3](./Inspiration-3.png)
 
 Comps
 * [Mobile](./comps/UX-UI-Keji-Kelly-Mobile.pdf)
