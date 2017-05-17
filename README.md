@@ -1,3 +1,15 @@
+Profile
+* 23 year old
+* Goals:
+	* Get active
+	* Meet people
+	* Win things
+	* Compete
+* Frustrations:
+	* 9-5 job
+	* Where to go?
+	* What am I doing wrong?  
+
 Inspiration
 * [Item 1](./Inspiration-1.png)
 * [Item 2](./Inspiration-2.png)
